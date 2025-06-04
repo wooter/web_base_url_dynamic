@@ -14,7 +14,7 @@ Useful when you serve multiple domains on one Odoo instance (e.g. `armlab.com`, 
 Clone or copy the module to your Odoo addons folder:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/web_base_url_dynamic.git
+git clone https://github.com/wooter/web_base_url_dynamic.git
 ```
 
 Then:
